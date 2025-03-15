@@ -63,18 +63,11 @@ ul{
 	text-decoration:none;
 }
 #product button:hover {
-	text-decoration: none;
 	background-color:#000000;
     color: #ffffff;
 }
 #about h1, p{
     text-align: center;
 }
-#product .butt a{
-    text-decoration: none;
-    color: black;
-}
-#product .butt a:hover{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
+
 }
